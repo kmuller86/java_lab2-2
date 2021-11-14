@@ -35,7 +35,6 @@ public class Main {
             System.out.println(table[j]);
             j++;
         }
-
         System.out.println("-----------------------------");
 
         j = 0;
