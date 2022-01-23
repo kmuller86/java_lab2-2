@@ -109,6 +109,7 @@ public class Main {
         c) wyświetlić sumę wywołań obu metod ---> print("wynik: " + (metoda(8, 9) + metoda(2, 3, 4));
         */
 
+        /* nazwa metody powinna być inna niż nazwa zmiennych, troche to malo czytelne, nazwa metody powinna mówić co robi metoda np. dodaj(1, 2) */
         int liczba = liczba(3,5);
         System.out.println(liczba);
         int liczba2 = liczba(3,2,5);
